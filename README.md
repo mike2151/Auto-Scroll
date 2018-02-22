@@ -1,2 +1,4 @@
 # Inject-Web
-Chrome extension that injects HTML code into the user's choosing of position 
+Chrome extension that automatically scrolls the user's current page.
+
+Available at: [Auto Scroll](https://chrome.google.com/webstore/detail/auto-scroll/pnmppanpmcimcfnkhkcpnmomiiomchpd)
